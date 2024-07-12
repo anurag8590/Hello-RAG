@@ -1,7 +1,7 @@
 # Hello-RAG
 ## Qdrant 🚀 + Gemini ❇️ + MixBread 🍁
 
-![image qdrant](/preview/3.png) ![image gemini](/preview/4.png) ![image mixbread](/preview/5.png)
+![image qdrant](/preview/5.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image gemini](/preview/4.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image mixbread](/preview/3.png)
 
 ![image 2](/preview/2.gif)
 
