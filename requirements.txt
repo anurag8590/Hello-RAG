@@ -1,6 +1,5 @@
 sentence-transformers
 google-generativeai
-langchain-community
 python-dotenv
 langchain
 PyPDF2
@@ -8,3 +7,4 @@ streamlit
 qdrant-client
 langchain-huggingface
 langchain-google-genai
+langchain-qdrant
