@@ -13,7 +13,7 @@
 
 ### Steps to Configure:
 - Get the [Qdrant](https://qdrant.tech/) Cloud endpoint & API.
-- Get the [Gemini](https://ai.google.dev/) Gemini API.
+- Get the [Gemini](https://ai.google.dev/) API.
 
 ## Steps to configure in your local system:
 
