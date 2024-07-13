@@ -1,17 +1,16 @@
-# Hello-RAG
+# [Hello-RAG](https://huggingface.co/spaces/anurag2op/hello-rag)
 ## Qdrant 🚀 + Gemini ❇️ + MixBread 🍁
 
 ![image qdrant](/preview/5.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image gemini](/preview/4.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![image mixbread](/preview/3.png)
 
-![image 2](/preview/2.gif)
 
 # Preview
+![image 2](/preview/2.gif)
 
-[Hello-RAG](https://huggingface.co/spaces/anurag2op/hello-rag)
 
 ## Information Retreival system using RAG
 
-### Steps to Configure:
+### Steps to configure:
 - Get the [Qdrant](https://qdrant.tech/) Cloud endpoint & API.
 - Get the [Gemini](https://ai.google.dev/) API.
 
