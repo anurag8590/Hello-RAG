@@ -15,7 +15,7 @@
 - Get the [Qdrant](https://qdrant.tech/) Cloud endpoint & API.
 - Get the [Gemini](https://ai.google.dev/) API.
 
-## Steps to configure in your local system:
+### Steps to configure in your local system:
 
 - clone this repository <code>git clone https://github.com/anurag8590/Hello-RAG.git</code>
 - go to the folder <code>cd Hello-RAG</code>
