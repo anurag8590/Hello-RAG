@@ -9,7 +9,7 @@
 ![image 2](/preview/2.gif)
 
 
-## Information Retreival using RAG 🕵
+## Information Retrieval using RAG 🕵
 
 ### Get the APIs:
 - Get the [Qdrant](https://qdrant.tech/) Cloud endpoint & API.
